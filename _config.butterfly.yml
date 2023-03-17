@@ -167,7 +167,8 @@ default_top_img: # /pages/1.jpg
 # 图片格式 url(http://xxxxxx.com/xxx.jpg)
 # 颜色（HEX值/RGB值/颜色单词/渐变色)
 # 留空 不显示背景
-background:  url(https://source.fomal.cc/img/dm1.webp)  # url(https://muyuovo.github.io/pages/mao.jpg) 
+background: url(https://muyuovo.github.io/pages/mao.jpg) # url(https://source.fomal.cc/img/dm1.webp) 
+  
 
 # 背景特效
 canvas_nest:
